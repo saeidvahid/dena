@@ -1,5 +1,10 @@
 #: locale=en
 
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_D4BE16D4_C089_C3E3_41E6_83C648A0F697.toolTip = به سمت سالن
+
 ## Media
 
 ### Audio
@@ -20,15 +25,16 @@ panorama_B0BB3306_BB75_D48D_41E2_8D9B92244837.label = سالن
 panorama_B0BB1708_BB75_DC85_41D4_6263F2CFB89D.label = سالن 2
 panorama_B0BB1319_BB76_B487_41E0_768C68731A13.label = محوطه
 panorama_B0BB275D_BB76_7CBF_41E2_35DABB3E4059.label = محوطه (2)
-video_9C4BD882_8DF7_179C_41D6_A2D9089924BE.label = منطقه3 پادنا
+video_CD8C1824_C08A_CEA3_41D1_EF73FAB03486.label = منطقه3 پادنا
 panorama_B0BB2DAA_BB76_CF9A_41D6_F7E1F5280E27.label = نما از ورودی
+panorama_D3A7E4E5_C099_C7AD_41DA_2603C1C8E522.label = نمای هوایی آیلار
 panorama_CCB88CA8_C03B_639E_41DE_3F912F9D32DE.label = نمای هوایی سر در آیلار
 panorama_B0BB172B_BB76_DC9B_41E2_CBA831D5C3DA.label = ورودی پذیرایی
 panorama_B0BABC59_BB76_4C87_41DA_1E504CD45522.label = کنار تخت ها
 
 ### Video
-videolevel_D354AA7F_C05B_2773_41E3_9D64FDA00F65.url = media/video_9C4BD882_8DF7_179C_41D6_A2D9089924BE_en.mp4
-videolevel_D354AA7F_C05B_2773_41E3_9D64FDA00F65.posterURL = media/video_9C4BD882_8DF7_179C_41D6_A2D9089924BE_poster_en.jpg
+videolevel_D6177008_C086_BE63_41E2_C7E199449E64.url = media/video_CD8C1824_C08A_CEA3_41D1_EF73FAB03486_en.mp4
+videolevel_D6177008_C086_BE63_41E2_C7E199449E64.posterURL = media/video_CD8C1824_C08A_CEA3_41D1_EF73FAB03486_poster_en.jpg
 
 ### Video Subtitles
 

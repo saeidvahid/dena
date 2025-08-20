@@ -3,13 +3,22 @@
 ## Action
 
 ### URL
-WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://balad.ir/p/4RAT43iqubSnpH
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://balad.ir/p/4RAT43iqubSnpH
+PopupWebFrameBehaviour_D03CC7CF_C84D_23DF_41D9_422A4D40B3DF.url = https://saeidvahid.github.io/loop360x/
+LinkBehaviour_D033E79F_C84D_247F_41C2_7AC839B321D0.source = https://saeidvahid.github.io/loop360x/
+LinkBehaviour_D452000C_C7F9_77F2_41D7_AFBD4541EBE7.source = https://saeidvahid.github.io/loop360x/
+PopupWebFrameBehaviour_D5661F17_C7F9_080E_41D2_68DB1F5872A8.url = https://saeidvahid.github.io/loop360x/
+LinkBehaviour_D039A7B6_C84D_2441_41C7_268BC613E4C8.source = https://www.instagram.com/boomgardi_aylar_padena?igsh=ZHlzaWRzNHZrbWNm
+LinkBehaviour_DD109249_C873_3CC5_41D2_B89E56A30A0C.source = https://www.instagram.com/boomgardi_aylar_padena?igsh=ZHlzaWRzNHZrbWNm
+LinkBehaviour_D02E878C_C84D_2441_41DC_90606BD477F5.source = https://www.instagram.com/loop360x?igsh=ejY5Y3A0YXhzMTRm
+LinkBehaviour_DBA4065C_C85D_64FD_41D5_E8F036E78D03.source = https://www.instagram.com/loop360x?igsh=ejY5Y3A0YXhzMTRm
 
 ## Hotspot
 
 ### Tooltip
-HotspotPanoramaOverlayArea_DCBE0EFF_C77A_C709_41BD_A04FCAEC5ED2.toolTip = بفرمایید داخل
-HotspotPanoramaOverlayArea_DC40B8F0_C77A_4B17_41C5_50D5DC994C1A.toolTip = خروج
+HotspotPanoramaOverlayArea_DCBE0EFF_C77A_C709_41BD_A04FCAEC5ED2.toolTip = Welcome
+HotspotPanoramaOverlayArea_DC40B8F0_C77A_4B17_41C5_50D5DC994C1A.toolTip = Exit
 
 ## Media
 
@@ -28,60 +37,78 @@ album_CAB81CE5_C75B_F590_41C8_4A174D2F6BEB_7.label = IMG_20250709_203817_033
 album_CAB81CE5_C75B_F590_41C8_4A174D2F6BEB_8.label = IMG_20250709_203822_445
 album_CAB81CE5_C75B_F590_41C8_4A174D2F6BEB_9.label = IMG_20250719_073647
 album_CAB81CE5_C75B_F590_41C8_4A174D2F6BEB.label = Photo Album IMG_20250402_124658
-panorama_CBA1DEE1_C6EF_C739_41E3_26AB44083919.label = آبنما
-panorama_CA79B33A_C6EE_BD0B_4191_4805D408F8F4.label = آشپزخانه
-panorama_CA7BD7DF_C6EE_4509_41C8_75FEF3E78EBE.label = اتاق 1
-panorama_CA792893_C6EE_4B19_41E4_6884D2296E7B.label = اتاق 2
-panorama_CA799201_C6EE_DEF8_41CF_33FE7E01A0CF.label = اتاق 3
-panorama_CA79FAAF_C6EE_CF08_41DD_79C98CE8246E.label = اجاق و کتری
-panorama_CA797BFC_C6EE_4D08_41E0_097DD5AD91D9.label = ایوان
-panorama_CA793461_C6EE_5B39_41E0_F98CB61C2F40.label = حمام
-panorama_CA7B7525_C6ED_C539_41E0_7405A41657BB.label = سالن
-panorama_CA7B3C8E_C6ED_CB08_41D5_833D2D1F7DC8.label = سالن 2
-panorama_CA7BDEEE_C6EA_470B_41DB_0E440A5D88CE.label = محوطه
-panorama_CA7B36A5_C6EA_4739_41B8_CD96F74DBD18.label = محوطه (2)
-panorama_CA7B380E_C6EA_CB08_41E5_07DDEF4052F7.label = نما از ورودی
-panorama_D4D2407F_C735_BB08_41E7_DE82F831D5B3.label = نمای آسمان روستای کره دانd
-panorama_CA7B5088_C6EA_FBF7_41DC_BFA35EEFFBD4.label = نمای سردر آیلار
-panorama_CA7B3AE3_C6EA_CF39_41E1_2E76350C9754.label = نمای هوایی آیلار
+panorama_CBA1DEE1_C6EF_C739_41E3_26AB44083919.label = 16
+panorama_CA79B33A_C6EE_BD0B_4191_4805D408F8F4.label = 15
+panorama_CA7BD7DF_C6EE_4509_41C8_75FEF3E78EBE.label = 14
+panorama_CA792893_C6EE_4B19_41E4_6884D2296E7B.label = 13
+panorama_CA799201_C6EE_DEF8_41CF_33FE7E01A0CF.label = 12
+panorama_CA79FAAF_C6EE_CF08_41DD_79C98CE8246E.label = 11
+panorama_CA797BFC_C6EE_4D08_41E0_097DD5AD91D9.label = 10
+panorama_CA793461_C6EE_5B39_41E0_F98CB61C2F40.label = 9
+panorama_CA7B7525_C6ED_C539_41E0_7405A41657BB.label = 8
+panorama_CA7B3C8E_C6ED_CB08_41D5_833D2D1F7DC8.label = 7
+panorama_CA7BDEEE_C6EA_470B_41DB_0E440A5D88CE.label = 6
+panorama_CA7B36A5_C6EA_4739_41B8_CD96F74DBD18.label = 5
+panorama_CA7B380E_C6EA_CB08_41E5_07DDEF4052F7.label = 4
+panorama_D4D2407F_C735_BB08_41E7_DE82F831D5B3.label = 3
+panorama_CA7B5088_C6EA_FBF7_41DC_BFA35EEFFBD4.label = 2
+panorama_CA7B3AE3_C6EA_CF39_41E1_2E76350C9754.label = 1
 panorama_CA7B6356_C6EA_DD18_41C4_85D9BD58A7BC.label = ورودی پذیرایی
 panorama_CA7B0CF9_C6ED_CB09_41B8_8C5878EAA5F7.label = کنار تخت ها
 
 ## Right Click Menu
 
 ### Text
-menuItem_D4D55A9A_C6FA_CF0B_41C0_FE40253B2F5F.label = واتساپ
+menuItem_D4D55A9A_C6FA_CF0B_41C0_FE40253B2F5F.label = share
 
 ## Skin
 
 ### Button
-Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Contact Information
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Photoalbum
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Photoalbum
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Contact Information
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Contact Information
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Tour Information
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Tour Information
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Location
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Location
 Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Panorama List
-Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Photoalbum
-Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Tour Information
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Panorama List
 
 ### Image
 Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_en.jpg
 Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_en.jpg
+Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile.url = skin/Image_06C5BBA5_1140_A63F_41A7_E6D01D4CC397_mobile_en.jpg
 Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_en.jpg
+Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile.url = skin/Image_0B48D65D_11C0_6E0F_41A2_4D6F373BABA0_mobile_en.jpg
 Image_D702CA78_C6FE_CF17_41DC_76BCF74954D5.url = skin/Image_D702CA78_C6FE_CF17_41DC_76BCF74954D5_en.jpg
+Image_D702CA78_C6FE_CF17_41DC_76BCF74954D5_mobile.url = skin/Image_D702CA78_C6FE_CF17_41DC_76BCF74954D5_mobile_en.jpg
+Image_DCEAAA50_C857_2CC7_41E0_558ED5D2205F.url = skin/Image_DCEAAA50_C857_2CC7_41E0_558ED5D2205F_fa.png
+Image_DCEAAA50_C857_2CC7_41E0_558ED5D2205F_mobile.url = skin/Image_DCEAAA50_C857_2CC7_41E0_558ED5D2205F_mobile_fa.png
 
 ### Label
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = 09162346647
 Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = 09162346647
-Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Aylar Eco-lodge
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Aylar Eco-Lodge
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = Aylar Eco-Lodge
 
 ### Multiline Text
 HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.270000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.27vw;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.270000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.27vw;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2100000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2100000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2100000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.270000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.27vw;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.270000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.27vw;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2100000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2100000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2100000000000002vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.21vw;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.54vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:0.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.72vw;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.42vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
 HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.42vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.920000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
-HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;"><B>Aylar Eco-lodge</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald Regular';"><I>Saeid Moradi</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald Regular';"><I>09162346647</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;"><B>Aylar Eco-lodge</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald Regular';"><I>Saeid Moradi</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald Regular';"><I>09162346647</I></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:0.77vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:2.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B>اقامتگاه بومگردی آیلار</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:1.33vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>ادرس : اصفهان  ، سمیرم ، بخش پادنا ، روستای کره دان</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.96vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.15vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:1.149425287356322vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.15vw;"><B>پادنا یکی از مناطق خوش‌آب‌وهوا و تاریخی استان اصفهان است که در دامنه‌های جنوبی دنا و در مرز استان‌های اصفهان و کهگیلویه و بویراحمد قرار دارد. این منطقه به دلیل طبیعت بکر، دشت‌های سرسبز، رودخانه‌ها و کوه‌های بلند، مقصدی محبوب برای گردشگران و کوهنوردان است. پادنا همچنین به‌خاطر باغ‌های سیب و گردوی خود شهرت فراوان دارد و محصولات کشاورزی آن در سراسر کشور شناخته شده است. آب‌وهوای معتدل کوهستانی، چشمه‌های زلال و پوشش گیاهی متنوع، این منطقه را به یکی از زیباترین نقاط فریدون‌شهر و سمیرم تبدیل کرده است. وجود مراتع سرسبز باعث رونق دامپروری در پادنا شده و زندگی عشایری در آنجا جلوه‌ای خاص دارد. از لحاظ فرهنگی نیز، پادنا دارای مردمانی مهمان‌نواز با آداب‌ورسوم اصیل است. همچنین نزدیکی آن به قله دنا، فرصت مناسبی برای علاقه‌مندان به کوهنوردی فراهم می‌کند. طبیعت چهار فصل پادنا در هر زمان از سال زیبایی خاصی دارد و همین ویژگی آن را به مقصدی جذاب برای طبیعت‌دوستان بدل کرده است.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.15vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.15vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:0.77vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:2.72vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vw;font-family:'Oswald';"><B>اقامتگاه بومگردی آیلار</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.53vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:1.33vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:1.33vw;font-family:'Oswald';"><B>ادرس : اصفهان  ، سمیرم ، بخش پادنا ، روستای کره دان</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.96vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.15vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:right;font-size:1.149425287356322vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.15vw;"><B>پادنا یکی از مناطق خوش‌آب‌وهوا و تاریخی استان اصفهان است که در دامنه‌های جنوبی دنا و در مرز استان‌های اصفهان و کهگیلویه و بویراحمد قرار دارد. این منطقه به دلیل طبیعت بکر، دشت‌های سرسبز، رودخانه‌ها و کوه‌های بلند، مقصدی محبوب برای گردشگران و کوهنوردان است. پادنا همچنین به‌خاطر باغ‌های سیب و گردوی خود شهرت فراوان دارد و محصولات کشاورزی آن در سراسر کشور شناخته شده است. آب‌وهوای معتدل کوهستانی، چشمه‌های زلال و پوشش گیاهی متنوع، این منطقه را به یکی از زیباترین نقاط فریدون‌شهر و سمیرم تبدیل کرده است. وجود مراتع سرسبز باعث رونق دامپروری در پادنا شده و زندگی عشایری در آنجا جلوه‌ای خاص دارد. از لحاظ فرهنگی نیز، پادنا دارای مردمانی مهمان‌نواز با آداب‌ورسوم اصیل است. همچنین نزدیکی آن به قله دنا، فرصت مناسبی برای علاقه‌مندان به کوهنوردی فراهم می‌کند. طبیعت چهار فصل پادنا در هر زمان از سال زیبایی خاصی دارد و همین ویژگی آن را به مقصدی جذاب برای طبیعت‌دوستان بدل کرده است.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.15vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.15vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.42vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
 
 ## Tour
 
 ### Description
-tour.description = اقامتگاهی در دل طبیعت دنا
+tour.description = dena
 
 ### Title
-tour.name = اقامتگاه بومگردی آیلار
+tour.name = Aylar Eco-lodge

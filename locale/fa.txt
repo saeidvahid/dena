@@ -6,12 +6,12 @@
 LinkBehaviour_EC5CE12B_C9CD_5C48_41B2_9E9701807E48.source = TEL:+989162346647
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://balad.ir/p/4RAT43iqubSnpH
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://balad.ir/p/4RAT43iqubSnpH
-LinkBehaviour_D565CB47_C8FD_2CC5_41DC_AFF592BFB4F9.source = https://saeidvahid.github.io/loop360x/
 LinkBehaviour_D452000C_C7F9_77F2_41D7_AFBD4541EBE7.source = https://saeidvahid.github.io/loop360x/
-LinkBehaviour_D69A8B60_C8FD_2CFB_41E5_8DD77B6851F5.source = https://www.instagram.com/boomgardi_aylar_padena?igsh=ZHlzaWRzNHZrbWNm
+LinkBehaviour_D565CB47_C8FD_2CC5_41DC_AFF592BFB4F9.source = https://saeidvahid.github.io/loop360x/
 LinkBehaviour_DD109249_C873_3CC5_41D2_B89E56A30A0C.source = https://www.instagram.com/boomgardi_aylar_padena?igsh=ZHlzaWRzNHZrbWNm
-LinkBehaviour_DBA4065C_C85D_64FD_41D5_E8F036E78D03.source = https://www.instagram.com/loop360x?igsh=ejY5Y3A0YXhzMTRm
+LinkBehaviour_D69A8B60_C8FD_2CFB_41E5_8DD77B6851F5.source = https://www.instagram.com/boomgardi_aylar_padena?igsh=ZHlzaWRzNHZrbWNm
 LinkBehaviour_D5614B32_C8FD_2C5F_41DC_7BC0D2080CEE.source = https://www.instagram.com/loop360x?igsh=ejY5Y3A0YXhzMTRm
+LinkBehaviour_DBA4065C_C85D_64FD_41D5_E8F036E78D03.source = https://www.instagram.com/loop360x?igsh=ejY5Y3A0YXhzMTRm
 
 ## Hotspot
 
@@ -92,7 +92,7 @@ Image_DCEAAA50_C857_2CC7_41E0_558ED5D2205F_mobile.url = skin/Image_DCEAAA50_C857
 
 ### Label
 Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text =     09162346647
-Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text =  . اقامتگاه بومگردی آیلار
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text =    اقامتگاه بومگردی آیلار
 Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = 09162346647
 Label_D09A0A41_CC88_4385_41E2_C966BB824910.text = ENGLISH
 Label_D30AD1B2_CC88_C087_41A5_E349E43EDFFE_mobile.text = ENGLISH

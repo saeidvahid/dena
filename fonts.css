@@ -172,9 +172,3 @@
    font-weight: normal;
    font-style: normal;
 }
-@font-face {
-   font-family: "Bebas Neue Bold";
-   src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
-   font-weight: bold;
-   font-style: normal;
-}

@@ -172,9 +172,3 @@
    font-weight: normal;
    font-style: normal;
 }
-@font-face {
-   font-family: "Haettenschweiler";
-   src: url("fonts/Haettenschweiler.woff") format("woff"), url("fonts/Haettenschweiler.eot") format("embedded-opentype"), url("fonts/Haettenschweiler.TTF") format("truetype"), url("fonts/Haettenschweiler.svg") format("svg");
-   font-weight: normal;
-   font-style: normal;
-}

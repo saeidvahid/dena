@@ -65,10 +65,10 @@ menuItem_D4D55A9A_C6FA_CF0B_41C0_FE40253B2F5F.label = اشتراک گذاری د
 ### Button
 Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = اطلاعات تماس
 Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = اطلاعات تماس
-Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = لوکیشن
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = لوکیشن
-Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = لوکیشن
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = لوکیشن
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = لوکیشن
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = لوکیشن
 Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = لیست پانوراماها
 Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = لیست پانوراماها
 Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = آلبوم عکس ها
